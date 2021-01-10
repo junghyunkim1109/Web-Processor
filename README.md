@@ -6,7 +6,7 @@ A simple web processor that
 - injects the data into MySQL database,
 - and retrieves data from MySQL database using Apache and PHP scripting, 
 
-            to display the stock information on the browser in a table form.
+     to display the stock information on the browser in a table form.
 
 
 [ Class project for CS288 (Intensive Programming in Linux) ]
