@@ -9,4 +9,4 @@ A simple web processor that
 to display the stock information on the browser in a table form.
 
 
-Class project for CS288 (Intensive Programming in Linux)
+[Class project for CS288 (Intensive Programming in Linux)]
